@@ -72,4 +72,3 @@ Other predictors had much lower VIFs. We treat this as a flag for interpretation
 ## Real Estate Recommendation (Practical Takeaway)
 As a real estate consultant, we recommend prioritizing **usable living space and high-impact structural features** (size, age/condition, garage capacity) and treating remodeling decisions **case-by-case** based on costs and local market context, rather than assuming remodeling will reliably increase sale price.
 
-## Repo Structure (example)
